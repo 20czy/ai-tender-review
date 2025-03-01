@@ -1,5 +1,5 @@
 # Full-stack ai tender document review system
-<img width="1512" alt="截屏2025-03-01 17 28 03" src="https://github.com/user-attachments/assets/5201fd62-21b3-4b68-ab5e-5cb1d1f96384" />
+![image](https://github.com/user-attachments/assets/3d88163a-45ed-4c1f-aac0-402650fca634)
 
 该项目目前正在开发过程中…..
 
